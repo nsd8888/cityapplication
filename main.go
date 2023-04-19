@@ -1,8 +1,8 @@
 package main
 
 import (
-	"city_population/Controller"
-	"city_population/Database"
+	"cityapplication/Controller"
+	"cityapplication/Database"
 	"net/http"
 )
 
