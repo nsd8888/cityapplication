@@ -8,6 +8,8 @@ import (
 
 func init() {
 	Database.Getconnection()
+	Database.Migratedatabase()
+}
 }
 
 func main() {
